@@ -15,4 +15,4 @@ $ python main.py
 
 # Thanks to 
 
-[marblexu]https://github.com/marblexu
+* [`marblexu`](https://github.com/marblexu)
